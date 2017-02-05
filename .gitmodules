@@ -1,0 +1,3 @@
+[submodule "vendor/tips"]
+	path = vendor/tips
+	url = https://github.com/git-tips/tips
